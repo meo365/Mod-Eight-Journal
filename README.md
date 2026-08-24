@@ -18,3 +18,6 @@ Repo for storing finished projects and documenting any lessons
 
 # How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 - The best technique I would use in the future is to give myself plenty of time to work through a problem. The provided Java code required very specific steps for Maven to work. I had to step away and start from scratch to get my "a ha" moment. Other then that I approached every task by doing exactly what was needed and left comments in the code with my initials to ensure other programmers who could also be using the code to know what was done.
+
+# Other
+- This repo will be made private to avoid issues at a later date and to maintain privacy of the documentation.
